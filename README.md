@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=28&duration=3000&pause=1000&color=0BF7FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Tanguy+👋;Data+Science+%26+AI+Student+at+EPITA;Building+Graph+Neural+Networks;Learning+Financial+Data+Analysis;Probably+not+sleeping+right+now" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=0BF7FF&center=true&vCenter=true&width=900&lines=Hey,+I'm+Tanguy+👋;Data+Science+%26+AI+Student+at+EPITA;Building+Graph+Neural+Networks;Learning+Financial+Data+Analysis;Probably+not+sleeping+right+now" />
 </p>
 
 ---
@@ -31,14 +31,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanguydcq&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tanguydcq&theme=tokyonight&hide_border=false" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanguydcq&layout=compact&theme=tokyonight&hide_border=false" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=tanguydcq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=tanguydcq&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanguydcq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
@@ -60,7 +59,7 @@
 
 ## 🧮 Profile Counter
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=tanguydcq&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=tanguydcq&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
