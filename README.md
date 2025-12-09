@@ -29,39 +29,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=tanguydcq&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=tanguydcq&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanguydcq&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## ⚡ Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanguydcq&theme=tokyo-night&hide_border=false&custom_title=Tanguy's%20Activity%20Graph" />
-</p>
-
----
-
 ## 🪄 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
-
----
-
-## 🧮 Profile Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanguydcq&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
 
 <!-- End -->
